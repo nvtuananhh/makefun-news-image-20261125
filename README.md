@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/nvtuananhh/makefun-news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/nvtuananhh/makefun-news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 # The World in One Image — 25 November 2026
 
 [![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
@@ -17,7 +21,7 @@ newspaper-style front page summarising the world news of Wednesday
 - **Huawei convicted** in New York (bank fraud, trade-secret theft).
 - **Asian markets tumble** — Seoul −6.2%, Tokyo −2.8%; Dow tops 50,000.
 - **Ukraine** hits two Rosneft refineries; leaked data puts Russian war
-  dead near 490,000.
+dead near 490,000.
 - **Hostages freed** in a Cartagena supermarket siege.
 - **Shenzhou-24 docks** with Tiangong, carrying Pakistan's first astronaut.
 - **Australia–Solomon Islands treaty** barring foreign military bases.
